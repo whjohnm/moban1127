@@ -14,7 +14,7 @@ body {
 img.center{ margin: 0 auto; display: block; }
 h1{ margin: 0 0 30px; font-size: 23px; font-weight:300; }
 .desc{ margin-bottom: 50px; } /* 30 Ori */
-.blue-bg{ background: #128ff9; color: #fff; }
+.blue-bg{ background: #ffffff; color: #fff; }
 .dark-grey-bg{ background: #616060; color: #fff; }
 .light-grey-bg{ background: #f0f0f0; }
 a{ 
@@ -38,9 +38,9 @@ a, figure, figcaption, img{
 
 
 /* Navigation */
-.navbar-default .navbar-nav>li>a:focus{ color: #eee; }
+.navbar-default .navbar-nav>li>a:focus{ color: #555; }
 .navbar-default{ border: none;}
-.navbar-default .navbar-nav>li>a{ color: #fff; }
+.navbar-default .navbar-nav>li>a{ color: #555; }
 .fixed-top-active { background: rgba(255, 255, 255, 0.90); border-bottom: 1px solid #eee; }
 .fixed-top-active .logo img{ border-top: none;}
 .fixed-top-active .logo,
