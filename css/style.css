@@ -14,7 +14,7 @@ body {
 img.center{ margin: 0 auto; display: block; }
 h1{ margin: 0 0 30px; font-size: 23px; font-weight:300; }
 .desc{ margin-bottom: 50px; } /* 30 Ori */
-.blue-bg{ background: #ffffff; color: #fff; }
+.blue-bg{ background: #ffffff; color: #000; }
 .dark-grey-bg{ background: #616060; color: #fff; }
 .light-grey-bg{ background: #f0f0f0; }
 a{ 
