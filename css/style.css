@@ -7,7 +7,7 @@ font-size:1.2em;
 /* Common */
 body {
   min-height: 2000px;
-  padding-top: 50px;
+  padding-top: 0px;
   font-family: 'Roboto', sans-serif;
   color: #000; 
 }
@@ -49,7 +49,8 @@ a, figure, figcaption, img{
 
 
 /* Regions */
-.region-1,.region-8{ padding-bottom: 0; }
+.region-1{ padding-bottom: 0; }
+.region-8{ padding-bottom: 0; }
 
 
 /* Masonry */
